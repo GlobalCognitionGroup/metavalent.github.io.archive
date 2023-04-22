@@ -1,13 +1,3 @@
----
-title: Intuitive Guidance Expertise
-author: metavalent
-layout: post
-published: true
-comments: true
-categories: metavalent
-tags: metavalent
----
-
 Model: GPT-4
 
 ROLE: 
